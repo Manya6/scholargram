@@ -11,7 +11,6 @@ import SwiftUI
 struct scholargramApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
+           openPage()        }
     }
 }
